@@ -21,7 +21,7 @@ This project applies Machine Learning and Business Intelligence to real-estate d
 ## 🚀 How to Run Locally
 1. Clone this repository:
    ```bash
-   git clone <YOUR_GITHUB_REPOSITORY_URL>
+   git clone https://github.com/Satnam-Singh-Analyst/house-price-analytics
    cd IBM-Bob-Data-Analytics-Project
    ```
 2. Install dependencies (Python 3.9+):
